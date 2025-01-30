@@ -12,7 +12,7 @@ Permainan ini terinspirasi dari lagu ding dong. Pemain harus membuka kotak dan m
 # Guna Perbaikan
 Pastikan anda sudah menghubungi mentor. Edit bagian ini dibagian html.
 ``` js
-const myhost = "host1"; // ubah ini
+const myhost = "1"; // ubah ini
 ```
 
 # Mentor Kode
