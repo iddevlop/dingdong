@@ -10,7 +10,8 @@ Permainan ini terinspirasi dari lagu ding dong. Pemain harus membuka kotak dan m
 [<img title="Ding Dong | SS" alt="Ding Dong | SS" width="30%" src="https://raw.githubusercontent.com/iddevlop/dingdong/refs/heads/main/ss/ss_003.png">](https://raw.githubusercontent.com/iddevlop/dingdong/refs/heads/main/ss/ss_003.png)
 
 # Guna Perbaikan
-``` js
+Pastikan anda sudah menghubungi mentor edit ini dibagian html
+``` html
 const myhost = "host1"; // ubah ini
 ```
 
